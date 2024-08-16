@@ -15,6 +15,7 @@
   <br>
 - ⚡ Fun fact: Everything is Fun!
   <br>
+  
 [![](https://visitcount.itsvg.in/api?id=Vaidik1199&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
