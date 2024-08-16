@@ -16,7 +16,6 @@
 - ⚡ Fun fact: Everything is Fun!
   <br>
 </p>
-[![](https://visitcount.itsvg.in/api?id=Vaidik1199&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Vaidik1199&label=Profile%20Views&color=2&icon=2&pretty=false" />
