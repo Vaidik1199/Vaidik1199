@@ -9,7 +9,7 @@
 <!--- 🤔 I’m looking for help with ...--->
 - 💬 Ask me about Code!
   <br>
-- 📫 How to reach me: https://github.com/Vaidik1199
+- 📫 How to reach me: <a https://github.com/Vaidik1199> Vaidik1199 </a>
   <br>
 - 😄 Pronouns: Anything 
   <br>
