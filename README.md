@@ -1,16 +1,17 @@
 ## Hi there 👋
+<p>
+- 🔭 I’m currently working on Skiils
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate OpenSource
+<!--- 🤔 I’m looking for help with ...--->
+- 💬 Ask me about Code!
+- 📫 How to reach me: https://github.com/Vaidik1199
+- 😄 Pronouns: Anything 
+- ⚡ Fun fact: Everything is Fun!
+</p>
+[![](https://visitcount.itsvg.in/api?id=Vaidik1199&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-<!--
-**Vaidik1199/Vaidik1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Vaidik1199&label=Profile%20Views&color=2&icon=2&pretty=false" />
+</a>
 -->
