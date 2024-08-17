@@ -20,7 +20,7 @@
 
 ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vaidikhc.99/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-hitendra-choudhary-a21b40294/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-choudhary-a21b40294/)
 
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vaidik1199&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
