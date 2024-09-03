@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Skiils
   <br>
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA & WEBDEV
   <br>
 - 👯 I’m looking to collaborate OpenSource
   <br>
