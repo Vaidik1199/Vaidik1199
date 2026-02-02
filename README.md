@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Skiils
+- 🔭 I’m currently working on Skills
   <br>
 - 🌱 I’m currently learning DSA & WEBDEV
   <br>
