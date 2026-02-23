@@ -7,9 +7,8 @@
 - 👯 I’m looking to collaborate OpenSource
   <br>
 - 💬 Ask me about Code!
+  <!--   - 📫 How to reach me [Vaidik1199](https://github.com/Vaidik1199) -->
   <br>
-- 📫 How to reach me [Vaidik1199](https://github.com/Vaidik1199)
-- <br>
 ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vaidikhc.99/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-choudhary-a21b40294/)
