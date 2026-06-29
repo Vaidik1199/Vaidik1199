@@ -1,21 +1,22 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Vaidik Choudhary**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Vaidik%20Choudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+Enthusiast;Node.js+Backend+Developer;DSA+Learner;Building+Real+World+Projects;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;React+Developer;Node.js+Backend+Developer;MERN+Stack+Learner;Data+Structures+%26+Algorithms;Building+Real+World+Projects;Always+Learning+🚀" />
 
 ### 💜 Aspiring Full Stack Developer | Java | MERN | DSA
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
 
-  <a href="https://www.instagram.com/vaidikhc.99/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=Vaidik1199&style=for-the-badge&color=blueviolet" />
+<a href="https://www.instagram.com/vaidikhc.99/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Vaidik1199&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -25,98 +26,95 @@
 
 # 🚀 About Me
 
-```yaml
-👨‍🎓 Name: Vaidik Choudhary
-
-🎓 B.E Artificial Intelligence & Data Science
-
-🇮🇳 India
-
-💻 Passionate Full Stack Developer
-
-🌱 Currently Learning:
-   • Java DSA
-   • MERN Stack
-   • System Design
-
-🎯 Goal:
-   Crack a Product Based Company
-
-⚡ Fun Fact:
-   I believe consistency always beats motivation.
-```
+- 🎓 B.E. Artificial Intelligence & Data Science
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently mastering **Java DSA**, **MERN Stack**, and **System Design**
+- 🚀 Building projects that solve real-world problems
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+- ⚡ Fun Fact: *Consistency beats talent when talent doesn't work hard.*
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma"/>
+### 👨‍💻 Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
 ```text
-Java DSA        ████████████░░░░░░ 80%
+Java DSA        █████████████░░░░░ 80%
 
-React           ██████████░░░░░░░░ 70%
+React           ███████████░░░░░░░ 70%
 
-Node.js         █████████░░░░░░░░░ 65%
+Node.js         ██████████░░░░░░░░ 65%
 
-System Design   ██████░░░░░░░░░░░░ 40%
+System Design   ███████░░░░░░░░░░░ 45%
 
-Open Source     █████░░░░░░░░░░░░░ 30%
+Open Source     ██████░░░░░░░░░░░░ 35%
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎓 StudentOS
+### 🎓 StudentOS
 
-> AI Powered Student Productivity Platform
+> AI-powered student productivity platform built with the MERN Stack.
 
-✔ React
-
-✔ Node.js
-
-✔ MongoDB
-
-✔ Authentication
-
-✔ Dashboard
+- Authentication
+- Dashboard
+- Student Management
+- Productivity Tools
 
 ---
 
-## 🎬 Movie Explorer
+### 🎬 Movie Explorer
 
-✔ React
+> Search, discover and save your favourite movies.
 
-✔ TMDB API
-
-✔ Favorites
-
-✔ Responsive UI
-
----
-
-## 🛡 SQL Injection Lab
-
-✔ Node.js
-
-✔ Express
-
-✔ MySQL
-
-✔ SQL Injection Demo
+- React
+- TMDB API
+- Favorites
+- Responsive UI
 
 ---
 
-# 📊 GitHub Stats
+### 🛡️ SQL Injection Lab
+
+> Demonstrates vulnerable and secure SQL Injection implementations.
+
+- Node.js
+- Express
+- MySQL
+- Security Concepts
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -158,37 +156,43 @@ Open Source     █████░░░░░░░░░░░░░ 30%
 
 ---
 
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/vaidikhc.99/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
-
----
-
-# 💭 Quote
+# 🐍 Contribution Snake
 
 <div align="center">
 
-> **"Consistency beats talent when talent doesn't work hard."**
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaidik1199/Vaidik1199/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaidik1199/Vaidik1199/output/github-contribution-grid-snake.svg"/>
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Vaidik1199/Vaidik1199/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 Connect With Me
 
-> Enable this using GitHub Actions.
+<div align="center">
 
-![Snake animation](https://github.com/Vaidik1199/Vaidik1199/blob/output/github-contribution-grid-snake.svg)
+<a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/vaidikhc.99/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> ### *"Consistency beats talent when talent doesn't work hard."*
+
+</div>
 
 ---
 
@@ -196,8 +200,8 @@ Open Source     █████░░░░░░░░░░░░░ 30%
 
 ## ⭐ Thanks for visiting my profile!
 
-### If you like my work, consider giving a ⭐ to my repositories.
+### If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 </div>
