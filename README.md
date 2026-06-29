@@ -1,76 +1,250 @@
-<h1 align="center">Hey 👋, I'm Vaidik</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | DSA Enthusiast</h3>
+````markdown
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Vaidik Choudhary**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning+🚀" />
+
+### 💜 Passionate Developer | Problem Solver | Lifelong Learner
+
+<img src="https://komarev.com/ghpvc/?username=Vaidik1199&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Vaidik Choudhary
+
+Location: India 🇮🇳
+
+Education:
+  Bachelor of Engineering (AI & DS)
+
+Currently Learning:
+  - Java DSA
+  - MERN Stack
+  - System Design
+
+Goal:
+  Become a Software Engineer at a Product Based Company
+
+Passion:
+  Building scalable and beautiful web applications
+
+Fun Fact:
+  Consistency beats talent when talent doesn't work hard.
+```
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
 
 <p align="center">
-  <a href="https://www.instagram.com/vaidikhc.99/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-* 🔭 I’m currently working on **improving my skills**
-* 🌱 I’m currently learning **DSA & Web Development**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **Code & Problem Solving**
-
----
-
-## 💻 Tech Stack
+## ⚙️ Frontend
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-* 📌 Mastering **Data Structures & Algorithms**
-* 🌍 Building **real-world web projects**
-* 🔥 Improving **consistency & problem-solving skills**
-
----
-
-## ⚡ GitHub Stats
+## 🛠 Backend
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaidik1199&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidik1199&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
 </p>
 
 ---
 
-## 🌱 Let's Grow Together
+## 🗄 Database
 
-* 🌟 Always open to learning & collaboration
-* 💡 Interested in building impactful projects
-* 🤝 Let's connect and create something amazing
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-## ✨ Quote I Follow
-
-> "Consistency beats talent when talent doesn’t work hard."
+</p>
 
 ---
 
-<p align="center">🔥 Thanks for visiting my profile! 🔥</p>
+## 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Java DSA        ████████████░░░░░ 80%
+
+React           ██████████░░░░░░░ 70%
+
+Node.js         █████████░░░░░░░░ 65%
+
+System Design   ██████░░░░░░░░░░░ 40%
+
+Open Source     █████░░░░░░░░░░░░ 30%
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 StudentOS
+
+> AI Powered Student Productivity Platform
+
+✔ React
+
+✔ Node.js
+
+✔ MongoDB
+
+✔ Authentication
+
+✔ Dashboard
+
+---
+
+## 🎬 Movie Explorer
+
+Movie Search App using TMDB API
+
+✔ React
+
+✔ API Integration
+
+✔ Favorites
+
+✔ Dark Mode
+
+---
+
+## 🛡 SQL Injection Lab
+
+A vulnerable and secure SQL Injection demonstration project
+
+✔ Node.js
+
+✔ Express
+
+✔ MySQL
+
+✔ Security Concepts
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaidik1199&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidik1199&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidik1199&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaidik1199&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaidik1199&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vaidik-choudhary-a21b40294/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://www.instagram.com/vaidikhc.99/">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> ### *"Great software isn't built overnight. It's built one commit at a time."*
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this later using GitHub Actions.
+
+```
+github-contribution-grid-snake.svg
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### If you like my work,
+
+### don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
+
+</div>
+````
